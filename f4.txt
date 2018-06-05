@@ -1,1 +1,2 @@
 hi this file is for first branch
+merged the file with master
